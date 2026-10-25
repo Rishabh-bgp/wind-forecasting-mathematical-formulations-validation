@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+results/
+# Data: everything in data/ except the committed SYNTHETIC CSV and data/README.md is git-ignored.
+# Real SCADA data is confidential and must never be committed.
+data/*
+!data/README.md
+!data/synthetic/
+data/synthetic/*
+!data/synthetic/synthetic_scada.csv
+*.csv
+!data/synthetic/synthetic_scada.csv
+*.parquet
+*.xlsx
+*.pt
+*.pth
+*.h5
+*.keras
+*.pkl
+.ipynb_checkpoints/
+.DS_Store

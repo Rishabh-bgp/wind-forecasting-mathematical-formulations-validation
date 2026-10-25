@@ -1,0 +1,64 @@
+seed: 42
+window: 24
+horizon: 1
+target: delta   # models predict the change from the last reading
+train_frac: 0.8
+data:
+  csv: data/synthetic/synthetic_scada.csv   # SYNTHETIC data; replace with your own SCADA CSV
+  timestamp_col: timestamp
+  wind_col: wind_speed
+  resample: 1h
+  dayfirst: false
+  n_hours: 8760
+  quick_hours: 2000
+models:
+- ann
+- lstm
+- svm
+- arima_ann
+- cnn_bilstm
+- cnn_bilstm_attention
+reference_model: cnn_bilstm_attention
+arima_search:
+  max_p: 3
+  max_d: 1
+  max_q: 3
+training:
+  lr: 0.001
+  batch_size: 32
+  epochs: 100
+  patience: 10
+  val_frac: 0.1
+  quick_epochs: 3
+  filters: 64
+  kernel_size: 3
+  lstm_units: 64
+  attn_dim: 64
+  dropout: 0.0
+  lstm_units_baseline: 64
+  ann_hidden:
+  - 64
+  - 32
+  rf_trees: 300
+  cv_folds: 5
+  svr_grid:
+    C:
+    - 1
+    - 10
+    - 100
+    gamma:
+    - scale
+    - 0.1
+    epsilon:
+    - 0.01
+    - 0.05
+extra_experiments:
+- lr_sensitivity
+- optimizer_comparison
+ljung_box_curve: true
+lr_grid:
+- 0.0001
+- 0.0005
+- 0.001
+- 0.005
+- 0.01
