@@ -139,6 +139,8 @@ MIT License, © 2026 Rishabh Aryan. See [`LICENSE`](LICENSE).
 
 ## M.Tech Thesis Work in AI and Data Science, IIIT Bhagalpur
 
+*An Investigation into Advanced Techniques for Wind Speed Forecasting with Applications to Renewable Energy Grid Integration*
+
 This repository is part of my M.Tech thesis work, *An Investigation into Advanced Techniques for Wind Speed Forecasting with Applications to Renewable Energy Grid Integration*.
 
 **1. Quantum and hybrid quantum ML**
