@@ -228,3 +228,4 @@ This repository is part of my M.Tech thesis work.
 - [vedic-math-hybrid-kt](https://github.com/Rishabh-bgp/vedic-math-hybrid-kt)
 - [wind-turbine-power-model](https://github.com/Rishabh-bgp/wind-turbine-power-model)
 - [zoo-website-capstone](https://github.com/Rishabh-bgp/zoo-website-capstone)
+- [All repositories](https://github.com/Rishabh-bgp?tab=repositories)
