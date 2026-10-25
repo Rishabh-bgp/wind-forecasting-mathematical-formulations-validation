@@ -10,7 +10,7 @@ Equation-by-equation implementation of ANN, LSTM/BiLSTM, SVR, ARIMA-ANN, CNN-BiL
 
 **Live demo:** https://rishabh-bgp.github.io/wind-forecasting-mathematical-formulations-validation/ (runs entirely in your browser on synthetic data)
 
-**About the demo design.** The page uses a Daoist, Chinese-ink style: crimson, charcoal and navy with gold accents, brush-style headings in the Ma Shan Zheng font, and charts drawn in gold, red and ink. Each repository has its own trigram. This one is **離 ☲ (Lí, Fire)**. 離 (Lí) is fire: light and clarity. It suits a paper that makes each equation visible and checks it with statistical tests. The red seal stamp (印) carries the initials RA, the faint taiji and the row of eight Bagua trigrams stand for balance and change, the cloud scrolls stand for moving air, and the vertical motto 明照四方 means "Brightness illuminates the four quarters". The design is purely decorative. Everything is computed by the model shown, on synthetic data.
+**About the demo design.** The page uses a Daoist, Chinese-ink style: crimson, charcoal and navy with gold accents, brush-style headings in the Ma Shan Zheng font, and charts drawn in gold, red and ink. Each repository has its own trigram. This one is **離 ☲ (Lí, Fire)**. 離 (Lí) is fire: light and clarity. It suits a paper that makes each equation visible and checks it with statistical tests. The red seal stamp (印) carries the initials RA, the faint taiji and the row of eight Bagua trigrams stand for balance and change, and the vertical motto 明照四方 means "Brightness illuminates the four quarters". The design is purely decorative. Everything is computed by the model shown, on synthetic data.
 
 ## What this repository implements
 
