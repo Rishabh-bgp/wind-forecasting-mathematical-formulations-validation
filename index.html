@@ -11,7 +11,6 @@
 body{margin:0;color:var(--paper);font-family:'Noto Serif',Georgia,serif;line-height:1.5;
  background:radial-gradient(ellipse at 15% 10%,rgba(0,0,0,.35),transparent 55%),radial-gradient(ellipse at 85% 90%,rgba(20,33,61,.55),transparent 60%),
  radial-gradient(ellipse at 60% 30%,rgba(255,255,255,.05),transparent 40%),var(--bg);min-height:100vh;position:relative;overflow-x:hidden}
-body:before{content:"";position:fixed;inset:0;pointer-events:none;opacity:.10;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='80' viewBox='0 0 160 80'%3E%3Cpath d='M10 60c10-18 30-18 40 0c6-10 18-10 24 0M90 30c10-18 30-18 40 0c6-10 18-10 24 0' fill='none' stroke='%23d4a64a' stroke-width='2'/%3E%3C/svg%3E")}
 .taiji{position:fixed;right:-140px;top:-140px;width:420px;height:420px;opacity:.07;pointer-events:none}
 header{max-width:1120px;margin:auto;padding:28px 24px 6px;display:flex;align-items:center;gap:18px}
 .seal{flex:none;width:64px;height:64px;background:var(--red);color:#fff6e6;border-radius:8px;display:grid;place-items:center;
@@ -60,7 +59,7 @@ footer{max-width:1120px;margin:auto;padding:0 24px 34px;font-size:.85rem;color:#
 <section class="card" style="grid-column:1/-1"><div class="warn"><b>Synthetic data disclaimer.</b> This page runs a <b>small</b> demo network (16 filters, 16 LSTM units per direction) trained for a few epochs on <b>synthetic SCADA-style data</b>. It is a small version of the model from my paper, not the full model, and the data is not the paper's data, and its numbers say nothing about the published results. Persistence (next hour = this hour) is shown so you can judge the model honestly. <span id="note"></span></div></section>
 </main>
 <div class="bagua" aria-hidden="true">☰ ☱ ☲ ☳ ☴ ☵ ☶ ☷</div>
-<footer><p><b>About the design.</b> 離 (Lí) is fire: light and clarity. It suits a paper that makes each equation visible and checks it with statistical tests. The red seal (印) carries the initials RA. The taiji and the eight Bagua trigrams stand for balance and change, and the cloud scrolls stand for moving air. The vertical motto 明照四方 means "Brightness illuminates the four quarters".</p>
+<footer><p><b>About the design.</b> 離 (Lí) is fire: light and clarity. It suits a paper that makes each equation visible and checks it with statistical tests. The red seal (印) carries the initials RA. The taiji and the eight Bagua trigrams stand for balance and change. The vertical motto 明照四方 means "Brightness illuminates the four quarters".</p>
 <p>Reference implementation by Rishabh Aryan · M.Tech Thesis Work in AI and Data Science, IIIT Bhagalpur · MIT license · <a href="https://github.com/Rishabh-bgp/wind-forecasting-mathematical-formulations-validation">source code on GitHub</a></p></footer>
 <script src="model.js"></script>
 <script>
