@@ -143,33 +143,65 @@ This repository is part of my M.Tech thesis work, *An Investigation into Advance
 
 **1. Quantum and hybrid quantum ML**
 
-<!-- paper 08: add link -->
-<!-- paper 10: add link -->
-<!-- paper 12: add link -->
+- 08 ☰ [hybrid-vqc-wind-speed-forecasting](https://github.com/Rishabh-bgp/hybrid-vqc-wind-speed-forecasting) · [live demo](https://rishabh-bgp.github.io/hybrid-vqc-wind-speed-forecasting/)
+- 10 ☵ [cbma-tn-vqc-wind-green-hydrogen](https://github.com/Rishabh-bgp/cbma-tn-vqc-wind-green-hydrogen) · [live demo](https://rishabh-bgp.github.io/cbma-tn-vqc-wind-green-hydrogen/)
+- 12 ☶ [hcq-lstm-clqgwo-wind-forecasting](https://github.com/Rishabh-bgp/hcq-lstm-clqgwo-wind-forecasting) · [live demo](https://rishabh-bgp.github.io/hcq-lstm-clqgwo-wind-forecasting/)
 
 **2. Metaheuristic-optimized hybrids**
 
-<!-- paper 04: add link -->
+- 04 ☷ [geoai-hybrid-ga-pso-anfis-wind-forecasting](https://github.com/Rishabh-bgp/geoai-hybrid-ga-pso-anfis-wind-forecasting) · [live demo](https://rishabh-bgp.github.io/geoai-hybrid-ga-pso-anfis-wind-forecasting/)
 
 **3. Deep learning with attention and gating**
 
-- **01** [CNN–BiLSTM–Attention on synthetic SCADA-style data](https://github.com/Rishabh-bgp/cnn-bilstm-attention-synthetic-scada)
-- **02** [CNN–BiLSTM–Attention on real SCADA data](https://github.com/Rishabh-bgp/cnn-bilstm-attention-real-scada)
-- **03** [Benchmarking CNN–BiLSTM–Attention on Indian SCADA data](https://github.com/Rishabh-bgp/cnn-bilstm-attention-benchmarking-indian-scada)
-<!-- paper 05: add link -->
-- **06** [Mathematical formulations and statistical validation](https://github.com/Rishabh-bgp/wind-forecasting-mathematical-formulations-validation)
-<!-- paper 09+13: add link -->
-<!-- paper 16: add link -->
+- 01 ☴ [cnn-bilstm-attention-synthetic-scada](https://github.com/Rishabh-bgp/cnn-bilstm-attention-synthetic-scada) · [live demo](https://rishabh-bgp.github.io/cnn-bilstm-attention-synthetic-scada/)
+- 02 ☳ [cnn-bilstm-attention-real-scada](https://github.com/Rishabh-bgp/cnn-bilstm-attention-real-scada) · [live demo](https://rishabh-bgp.github.io/cnn-bilstm-attention-real-scada/)
+- 03 ☰ [cnn-bilstm-attention-benchmarking-indian-scada](https://github.com/Rishabh-bgp/cnn-bilstm-attention-benchmarking-indian-scada) · [live demo](https://rishabh-bgp.github.io/cnn-bilstm-attention-benchmarking-indian-scada/)
+- 05 ☲ [xai-shap-lime-cnn-bilstm-attention-wind](https://github.com/Rishabh-bgp/xai-shap-lime-cnn-bilstm-attention-wind) · [live demo](https://rishabh-bgp.github.io/xai-shap-lime-cnn-bilstm-attention-wind/)
+- 06 ☲ [wind-forecasting-mathematical-formulations-validation](https://github.com/Rishabh-bgp/wind-forecasting-mathematical-formulations-validation) · [live demo](https://rishabh-bgp.github.io/wind-forecasting-mathematical-formulations-validation/)
+- 09+13 ☵ [wuweidl-daoist-gated-wind-forecasting](https://github.com/Rishabh-bgp/wuweidl-daoist-gated-wind-forecasting) · [live demo](https://rishabh-bgp.github.io/wuweidl-daoist-gated-wind-forecasting/)
+- 16 ☴ [rso-net-wind-grid-stabilization](https://github.com/Rishabh-bgp/rso-net-wind-grid-stabilization) · [live demo](https://rishabh-bgp.github.io/rso-net-wind-grid-stabilization/)
 
 **4. IoT, automation and multi-agent systems**
 
-<!-- paper 14: add link -->
-<!-- paper 15: add link -->
+- 14 ☳ [iot-n8n-wind-turbine-predictive-maintenance](https://github.com/Rishabh-bgp/iot-n8n-wind-turbine-predictive-maintenance) · [live demo](https://rishabh-bgp.github.io/iot-n8n-wind-turbine-predictive-maintenance/)
+- 15 ☱ [multi-agent-turbine-fleet-chief-of-staff](https://github.com/Rishabh-bgp/multi-agent-turbine-fleet-chief-of-staff) · [live demo](https://rishabh-bgp.github.io/multi-agent-turbine-fleet-chief-of-staff/)
 
 **5. Statistical time-series models**
 
-- **07** [ARIMA and SARIMA wind speed forecasting for Chennai](https://github.com/Rishabh-bgp/arima-sarima-wind-speed-chennai)
+- 07 ☵ [arima-sarima-wind-speed-chennai](https://github.com/Rishabh-bgp/arima-sarima-wind-speed-chennai) · [live demo](https://rishabh-bgp.github.io/arima-sarima-wind-speed-chennai/)
 
 ## Other repositories by Rishabh Aryan
 
-<!--OTHER_REPOS-->
+- [100-days-of-python](https://github.com/Rishabh-bgp/100-days-of-python)
+- [Agentic-Engineering-Ebook](https://github.com/Rishabh-bgp/Agentic-Engineering-Ebook)
+- [Brain-Computer-Interfaces-and-Cognitive-Computing-An-Introduction](https://github.com/Rishabh-bgp/Brain-Computer-Interfaces-and-Cognitive-Computing-An-Introduction)
+- [Chronic-Kidney-Disease-Stage-Identification-in-HIV-Infected-Patients-Using-Supervised-ML](https://github.com/Rishabh-bgp/Chronic-Kidney-Disease-Stage-Identification-in-HIV-Infected-Patients-Using-Supervised-ML)
+- [IIT-ROPAR-GENAI-FOUNDATIONS](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS)
+- [Meeting-of-Machines-Consumer-Agents-Seller-Agents-and-Hidden-Fulfilment-Risk-in-Online-Retail](https://github.com/Rishabh-bgp/Meeting-of-Machines-Consumer-Agents-Seller-Agents-and-Hidden-Fulfilment-Risk-in-Online-Retail)
+- [NIELIT-DATA-SCIENCE](https://github.com/Rishabh-bgp/NIELIT-DATA-SCIENCE)
+- [NIELIT-MACHINE-LEARNING-PROJECTS](https://github.com/Rishabh-bgp/NIELIT-MACHINE-LEARNING-PROJECTS)
+- [NIELIT-PYTHON-](https://github.com/Rishabh-bgp/NIELIT-PYTHON-)
+- [Predicting-Hot-Events-in-the-Early-Period-through-Bayesian-Model-for-Social-Networks](https://github.com/Rishabh-bgp/Predicting-Hot-Events-in-the-Early-Period-through-Bayesian-Model-for-Social-Networks)
+- [beed-ml-study](https://github.com/Rishabh-bgp/beed-ml-study)
+- [boston-house-price-prediction](https://github.com/Rishabh-bgp/boston-house-price-prediction)
+- [building-a-virtual-cell-in-python](https://github.com/Rishabh-bgp/building-a-virtual-cell-in-python)
+- [california-house-price-prediction](https://github.com/Rishabh-bgp/california-house-price-prediction)
+- [cobratate](https://github.com/Rishabh-bgp/cobratate)
+- [coda-synth](https://github.com/Rishabh-bgp/coda-synth)
+- [iris-classification](https://github.com/Rishabh-bgp/iris-classification)
+- [kbc-game](https://github.com/Rishabh-bgp/kbc-game)
+- [knn-classifier](https://github.com/Rishabh-bgp/knn-classifier)
+- [linear-regression-model-](https://github.com/Rishabh-bgp/linear-regression-model-)
+- [logistic-regression](https://github.com/Rishabh-bgp/logistic-regression)
+- [logistics-website-capstone](https://github.com/Rishabh-bgp/logistics-website-capstone)
+- [lovelight-leap](https://github.com/Rishabh-bgp/lovelight-leap)
+- [machine-learning-part-1](https://github.com/Rishabh-bgp/machine-learning-part-1)
+- [morocco-city-aware-load-forecasting](https://github.com/Rishabh-bgp/morocco-city-aware-load-forecasting)
+- [pan-cancer-classification](https://github.com/Rishabh-bgp/pan-cancer-classification)
+- [prediction-as-power](https://github.com/Rishabh-bgp/prediction-as-power)
+- [real-estate-valuation-taiwan](https://github.com/Rishabh-bgp/real-estate-valuation-taiwan)
+- [snakes-and-ladders](https://github.com/Rishabh-bgp/snakes-and-ladders)
+- [spam-scan](https://github.com/Rishabh-bgp/spam-scan)
+- [vedic-math-hybrid-kt](https://github.com/Rishabh-bgp/vedic-math-hybrid-kt)
+- [wind-turbine-power-model](https://github.com/Rishabh-bgp/wind-turbine-power-model)
+- [zoo-website-capstone](https://github.com/Rishabh-bgp/zoo-website-capstone)
