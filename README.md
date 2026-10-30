@@ -220,6 +220,7 @@ This repository is part of my M.Tech thesis work.
 - [lovelight-leap](https://github.com/Rishabh-bgp/lovelight-leap)
 - [machine-learning-part-1](https://github.com/Rishabh-bgp/machine-learning-part-1)
 - [machine-learning-part-2](https://github.com/Rishabh-bgp/machine-learning-part-2)
+- [machine-learning-part-3](https://github.com/Rishabh-bgp/machine-learning-part-3)
 - [morocco-city-aware-load-forecasting](https://github.com/Rishabh-bgp/morocco-city-aware-load-forecasting)
 - [pan-cancer-classification](https://github.com/Rishabh-bgp/pan-cancer-classification)
 - [prediction-as-power](https://github.com/Rishabh-bgp/prediction-as-power)
